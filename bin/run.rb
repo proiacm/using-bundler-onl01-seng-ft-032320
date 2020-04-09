@@ -1,4 +1,4 @@
-require_relative '../Gemfile'
+require_relative './Gemfile'
 Hashie
 Sinatra
 Octokit
